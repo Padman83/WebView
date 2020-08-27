@@ -12,10 +12,10 @@
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
 ```
-https://github.com/Padman83/New_Activity.git
+https://github.com/Padman83/WebView.git
 ```
 
 #### Or Use the Terminal.
 
 ```
-git clone https://github.com/Padman83/New_Activity.git
+git clone https://github.com/Padman83/WebView.git
